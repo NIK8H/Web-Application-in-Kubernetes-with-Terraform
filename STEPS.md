@@ -38,11 +38,21 @@ Note: You would normally store this securely, in an encrypted password manager f
 
 ssh cloud_user@<Public IP>
 
+`SSH`
+
+![SSH ](<images/Main_Page_Images/Screenshot 2025-11-29 at 12.29.24 PM.png>)
+
+
 >18. When prompted, enter y, and when prompted for a password, enter the Password you copied earlier.
 
 >19. Configure the AWS CLI (Command Line Interface) so it can connect to your AWS instance as the eks-user your previously created:
 
 aws configure
+
+![alt text](</images/Main_Page_Images/image.png>)
+
+
+
 
 >20. When prompted for the AWS Access Key ID, enter the Access key you stored earlier.
 
